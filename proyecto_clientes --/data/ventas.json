@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 1,
+    "fecha": "2026-10-12",
+    "total": 3.75,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Azucar",
+        "cantidad": 3,
+        "precio_unitario": 1.25,
+        "subtotal": 3.75
+      }
+    ]
+  }
+]

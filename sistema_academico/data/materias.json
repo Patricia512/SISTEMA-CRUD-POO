@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Matematica",
+    "codigo": "MAT101",
+    "creditos": 3,
+    "docente_id": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Mecanica De Fluidos",
+    "codigo": "0002",
+    "creditos": 3,
+    "docente_id": 2
+  }
+]
